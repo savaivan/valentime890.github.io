@@ -1,0 +1,12 @@
+h1 {
+    font-size: 40px;
+    font-family: Georgia;
+}
+
+.center {
+    margin: auto;
+    width: auto;
+    border: 3px solid #8888aa;
+    padding: 10px;
+    text-align: center;
+  }
